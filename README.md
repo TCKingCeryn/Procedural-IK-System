@@ -1,5 +1,6 @@
 # Procedural IK System
-A system of IK controllers based on open-source FABRIK solvers.
+A system of Procedural IK controllers based on an open-source FABRIK algorithim.
+
 
 
 
@@ -9,4 +10,4 @@ Current Version: v1.0
 ## Licenses
 Includes an open source modified fork of FaceSync, found here: https://assetstore.unity.com/packages/tools/animation/fast-ik-139972
 
-![asdas](https://user-images.githubusercontent.com/128671881/234216887-d50f8975-877f-4c01-8db4-61f2a29b6041.PNG)
+![sdfsdfds](https://user-images.githubusercontent.com/128671881/234217587-68b09f7a-d4e4-4437-a9c7-ddaa4d327e3d.PNG)
